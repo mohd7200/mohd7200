@@ -89,9 +89,8 @@ I regularly practice coding problems to improve my **algorithmic thinking, data 
 ## 🔤 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd7200&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🚀 What I'm Working On
